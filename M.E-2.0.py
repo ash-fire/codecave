@@ -9,7 +9,9 @@ print("Hello")
 print("Welcome to Masters Encrypt 2.0;or M.E 2.0")
 print("An amazing way to encrypt and decrypt")
 print("Are you encrypting or decrypting?")
+print("hello world")
 ans = input("type e for encryting, and d for decrypting")
+
 
 if ans == "e":
     ewords = []
